@@ -1,6 +1,6 @@
 from unittest import TestCase
 
-from src.hello import Hello
+from python.src.hello import Hello
 
 
 class TestHello(TestCase):
